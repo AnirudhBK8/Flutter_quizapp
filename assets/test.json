@@ -1,0 +1,99 @@
+[
+   {
+     "1": "Synonym of ABACK",
+     "2": "Synonym of Abandon",
+     "3": "Synonym of Abase",
+  "4": "Synonym of  Abduct",
+     "5": "Synonym of Abject ",
+     "6": "Synonym of Abbey ",
+  "7": "Synonym of Abolish",
+     "8": "Synonym of Abstract",
+     "9": "Synonym of Abut",
+ "10": "Synonym of Accede",
+  "11":"Synonym of Quell"
+   },
+
+   {
+     "1":{
+                   "a": "Surprise",
+                   "b": "aa",
+                   "c": "bbbb",
+                   "d": "cccc"
+             },
+      "2":{
+                   "a": "Surprise",
+                   "b": "To give up",
+                   "c": "bbbb",
+                   "d": "cccc"
+             },
+    "3":{
+                   "a": "Degrade",
+                   "b": "Defame",
+                   "c": "Surprise",
+                   "d": "cccc"
+             },    
+"4":{
+                   "a": "Surprise",
+                   "b": "aa",
+                   "c": "bbbb",
+                   "d": "Kidnap"
+             },
+      "5":{
+                   "a": "Lost hope",
+                   "b": "aa",
+                   "c": "bbbb",
+                   "d": "cccc"
+             },
+    "6":{
+                   "a": "Surprise",
+                   "b": "aa",
+                   "c": "Convent",
+                   "d": "cccc"
+             },    
+"7":{
+                   "a": "Surprise",
+                   "b": "Stop",
+                   "c": "bbbb",
+                   "d": "cccc"
+             },
+      "8":{
+                   "a": "Surprise",
+                   "b": "aa",
+                   "c": "bbbb",
+                   "d": "Summary"
+             },
+    "9":{
+                   "a": "Border",
+                   "b": "aa",
+                   "c": "bbbb",
+                   "d": "cccc"
+             },    
+ "10":{
+                   "a": "Surprise",
+                   "b": "aa",
+                   "c": "Agree",
+                   "d": "cccc"
+             },
+"11":{
+"a": "Abet",
+"b": "Help",
+"c": "Support",
+"d":"Subdue"
+   }
+},
+   {
+      "1": "Surprise",
+      "2": "To give up",
+      "3": "Degrade",
+ "4": "Kidnap",
+      "5": "Lost hope",
+      "6": "Convent",
+ "7": "Stop",
+      "8": "Summary",
+      "9": "Border",
+"10": "Agree",
+"11" :"Subdue"
+
+   }
+
+]

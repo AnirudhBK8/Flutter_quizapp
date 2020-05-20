@@ -1,0 +1,12 @@
+
+     "1": "Synonym of ABACK-Surprise",
+     "2": "Synonym of Abandon",
+     "3": "Synonym of Abase",
+  "4": "Synonym of  Abduct",
+     "5": "Synonym of Abject ",
+     "6": "Synonym of Abbey ",
+  "7": "Synonym of Abolish",
+     "8": "Synonym of Abstract",
+     "9": "Synonym of Abut",
+ "10": "Synonym of Accede"
+  

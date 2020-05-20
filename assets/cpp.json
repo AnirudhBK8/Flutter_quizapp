@@ -1,0 +1,100 @@
+[
+    {
+        "1": "Which of the following is not a C++ Header file ?",
+        "2": "Which function finds out the Variable type in Python ?",
+        "3": "Which of the following keyword is used to define a function in Python ?",
+        "4": "What Will Be The Output Of the Following Code in Java ?\nif(1 + 1 + 1 + 1 + 1 == 5){\n\tSystem.out.print(\"TRUE\");\n}\n\telse{\n\tSystem.out.print(\"FALSE\");\n};",
+        "5": "What Will Be The Output Of the Following Code In Python?\na = \"p\" * 3\nprint(a)",
+        "6": "Which of the following is a print Function in Python ?",
+        "7": "Which of the following is a print Function in C++ ?",
+        "8": "Which of the following is the Header file of sqrt ?",
+        "9": "Which of the followig is not an Object oriented programming language?",
+        "10": "Which of the following is a feature of object oriented programming language?",
+	"11": "Which of the following keyword is used to define a function in Python ?"
+	
+    },
+    {
+        "1": {
+            "a": "conio.h",
+            "b": "cstdlib.h",
+            "c": "stdio.h",
+            "d": "math.h"
+        },
+        "2": {
+            "a": "typedef",
+            "b": "typeof",
+            "c": "type",
+            "d": "find"
+        },
+        "3": {
+            "a": "func",
+            "b": "def",
+            "c": "void",
+            "d": "function"
+        },
+       "4": {
+            "a": "TRUE",
+            "b": "BOTH",
+            "c": "ERROR",
+            "d": "FALSE"
+        },
+        "5": {
+            "a": "pp",
+            "b": "ppp",
+            "c": "3p",
+            "d": "p3"
+},
+          "6": {
+            "a": "cout",
+            "b": "print",
+            "c": "println",
+            "d": "stderr"
+        },
+         "7": {
+            "a": "cout",
+            "b": "print",
+            "c": "println",
+            "d": "stderr"
+        },
+        "8": {
+            "a": "conio.h",
+            "b": "cstdlib.h",
+            "c": "stdio.h",
+            "d": "math.h"
+        },
+        "9": {
+            "a": "C++",
+            "b": "C",
+            "c": "Java",
+            "d": "All the above"
+        },
+        
+	"10":{
+	    "a":"Abstraction",
+	    "b":"Inheritance",
+	    "c":"Polymorphism",
+	    "d":"All the above"	
+	},
+	"11": {
+            "a": "func",
+            "b": "def",
+            "c": "void",
+            "d": "function"
+        }
+	
+    },
+    {
+        "1": "stdio.h",
+        "2": "type",
+        "3": "def",
+        "4": "TRUE",
+        "5": "ppp",
+        "6": "print",
+        "7": "cout",
+        "8": "math.h",
+        "9": "C",
+        "10":"All the above",
+	"11": "def"
+	
+    }
+]
